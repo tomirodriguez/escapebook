@@ -1,0 +1,12 @@
+@use "../../styles/constants" as c;
+
+.navContainer {
+  box-shadow: 0 3px 6px #00000029;
+  position: fixed;
+  top: 0;
+  background-color: c.$navBgColor;
+
+  ul {
+    height: c.$navBarHeight;
+  }
+}

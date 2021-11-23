@@ -1,0 +1,363 @@
+{
+  "ESCAPEGAMES": {
+    "name": "Escape Games",
+    "website": "https://www.escapegames.com.ar/",
+    "logo": "imgs/companies/escapegames/logo.png",
+    "headquarters": "Av. Comodoro Rivadia 1420, Nuñez, Capital Federal, Argentina",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/escapegamesok/",
+      "twitter": "https://twitter.com/escapegamesok",
+      "instagram": "https://www.instagram.com/escapegamesok/",
+      "youtube": "https://www.youtube.com/channel/UCLtHcaRj85njIgpuayir1-A",
+      "tripadvisor": "https://www.tripadvisor.com.ar/Attraction_Review-g312741-d10252041-Reviews-Escape_Games_Suc_Nunez-Buenos_Aires_Capital_Federal_District.html"
+    },
+    "franchises": [
+      {
+        "id": "ESCAPEGAMES-NUNEZ",
+        "name": "ESCAPEGAMES - NUÑEZ",
+        "contactInfo": {
+          "address": "Av. Comodoro Martín Rivadavia 1420",
+          "location": "Nuñez",
+          "province": "Buenos Aires",
+          "country": "Argentina",
+          "email": "info@escapegames.com.ar",
+          "whatsapp": "+54 9 11 2884 2589",
+          "phone": "+54 9 11 2884 2589"
+        },
+        "rooms": [
+          {
+            "id": "ESCAPEGAMES-NUNEZ-QUEPASOAYER",
+            "name": "Qué pasó ayer?",
+            "desciption": [
+              "Ni siquiera la resaca de una noche más que intensa apaga la sorpresa de un grupo de amigos que tras festejar la despedida de soltero de Alan, amanecen encerrados en una suite de un lujoso hotel casino.",
+              "Nadie recuerda nada, pero algunos indicios sugieren que un cartel narco secuestró a Alan, y esperan recuperar algo para liberarlo con vida."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "link": "https://www.escapegames.com.ar/sala-escape-pecados-capitales/",
+            "surprise": 6,
+            "difficulty": 6,
+            "theme": "Aventura - Rescate"
+          },
+          {
+            "id": "ESCAPEGAMES-NUNEZ-LAHERENCIADELTIOLUIS",
+            "name": "La Herencia del Tío Luis",
+            "desciption": [
+              "Al Tío Luis ya casi nadie lo visitaba. Quizás su avanzada edad, su eterna soltería, una depresión, o quien sabe que rara enfermedad, lo había transformado en un personaje disperso, ermitaño y malhumorado.",
+              "Juan Manuel, su sobrino predilecto y único heredero, lo hacía solo esporádicamente, las pocas veces que viajaba a la ciudad, y en los últimos años, sus visitas eran tan escuetas como sufridas. No soportaba ver a su querido Tío Luis así, con su nerviosismo hiperactivo, sus ojos perdidos, su obsesión compulsiva, sus infinitos tics, y sus delirantes e incoherentes relatos sobre robos y estafas.",
+              "Pero finalmente, la muerte llamó al Tío Luis y la policía llamó a Juan Manuel, para informarle su fallecimiento y dejarle las llaves de su morada, entregadas por el vecino que denunció su deceso.",
+              "Juan Manuel viajo a la ciudad de inmediato, acompañado por sus amigos más cercanos, que lo ayudaron con los trámites funerarios, con el sepelio y con el entierro. Y con todo esto terminado, volvieron a la casa del Tío Luis, para inventariar sus pocas pertenencias.",
+              "Pero el sucio y oscuro PH de un ambiente contenía dos sorpresas que podían cambian sus vidas, una extraña alarma oculta que les impedía salir de la casa a pesar de tener las llaves, y algo más extraño aún: el resultado de un plan maquiavélico, una pesada herencia..."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "link": "https://www.escapegames.com.ar/sala-de-escape-herencia-del-tio-luis/",
+            "surprise": 7,
+            "difficulty": 6,
+            "theme": "Aventura - Hallazgo"
+          },
+          {
+            "id": "ESCAPEGAMES-NUNEZ-LABIBLIOTECADENEBIRUS",
+            "name": "La Biblioteca de Nebirus",
+            "desciption": [
+              "Existían rumores suficientes para sospechar que don Atilio, el extraño bibliotecario de la Facultad de Veterinaria, era nada menos que Nebirus, el despiadado líder de una antigua secta satánica.",
+              "Un grupo de osados estudiantes, quisieron corroborarlo una fría madrugada de lunes otoñal, buscando certezas en la biblioteca.",
+              "Daniel, uno de ellos, había robado las llaves de la Facultad, nada les costó entrar al edificio, y luego a su biblioteca.",
+              "Dejó entrar a sus compañeros, y como buen bromista, cerró la antigua puerta y volvió a girar la cerradura, encerrando a sus amigos.",
+              "Nada más se supo de Daniel.",
+              "En una hora, don Atilio abrirá las puertas, para organizar sus labores cotidianas, o quizás para algo más..."
+            ],
+            "minPlayers": 3,
+            "maxPlayers": 6,
+            "level": "Advanced",
+            "link": "https://www.escapegames.com.ar/sala-de-escape-biblioteca-nebirus/",
+            "surprise": 10,
+            "difficulty": 9,
+            "theme": "Investigación - Thriller"
+          },
+          {
+            "id": "ESCAPEGAMES-NUNEZ-ELJUEGODELMIEDO",
+            "name": "El Juego del Miedo",
+            "link": "https://www.escapegames.com.ar/sala-escape-juego-del-miedo/",
+            "desciption": [
+              "Pertenecer tiene sus privilegios, por eso no te sorprende encontrar a varios de tus amigos cinéfilos, socios del club “Cine de terror”, en el exclusivo salón VIP del Cine Lido, antesala del Avant Premiere de la última saga de la pelicula, de inminente estreno mundial. Entre trago y trago, todo se nubla, todo se confunde, y casi sin entendimiento ni reacción, tú y tus amigos son drogados, secuestrados, encapuchados y encerrados en el mugriento baño de una abandonada Fábrica Estatal de Vías Ferroviarias. Sin noción del tiempo transcurrido, todos despiertan con una bolsa en la cabeza y al quitársela descubren que están encerrados entre macabras trampas con sangrientas pruebas a superar. Luego de mirarse unos a otros a los ojos, se dan cuenta que la ficción se volvió realidad y que alguien ahora quiere jugar con ustedes. Repentinamente se activa un reloj de luces rojas marcando una implacable cuenta regresiva, casi al mismo tiempo que una voz tenebrosa emerge desde un hediondo monitor, indicando que el juego comienza..."
+            ],
+            "minPlayers": 4,
+            "maxPlayers": 6,
+            "level": "Advanced",
+            "surprise": 8,
+            "difficulty": 8,
+            "theme": "Thriller - Terror"
+          }
+        ]
+      },
+      {
+        "id": "ESCAPEGAMES-SANTELMO",
+        "name": "ESCAPEGAMES - SAN TELMO",
+        "contactInfo": {
+          "address": "Humberto Primo 623",
+          "location": "San Telmo",
+          "province": "Buenos Aires",
+          "country": "Argentina",
+          "email": "info@escapegames.com.ar",
+          "whatsapp": "+54 9 11 6371 0532",
+          "phone": "011 4300 5737"
+        },
+        "rooms": [
+          {
+            "id": "ESCAPEGAMES-SANTELMO-PECADOSCAPITALES",
+            "name": "Pecados Capitales",
+            "desciption": [
+              "El Comisario Mayor Dany Colombres es el mejor investigador de la policía cientifica local. Junto a su equipo de investigadores emprenden la cacería de un despiadado asesino serial que conmociona a la comunidad. Cuatro sangrientos crímenes presentados en escenarios apocalípticos, representaron de manera casi artística a cuatro de los siete pecados capitales. Sospechando de un traidor dentro de sus filas, el Comisario Colombres se recluye en su casa para unir los últimos cabos y delinear el plan para detener al asesino antes del próximo crimen. A la semana, con su investigación concluida, convoca a su equipo en su propia casa para ejecutar la operación final y atrapar al asesino. Doblando la apuesta, una carta llega al Departamento de Policia anunciando que en ese mismo día y en tres horas consecutivas, el criminal culminará su obra maestra. Al llegar a la casa de Colombres, encuentran la puerta de entrada entre abierta. Carlos, uno de los investigadores queda vigilando las inmediaciones y el resto del grupo con los recaudos del caso, ingresan a la casa de su jefe. Repentinamente alguien los encierra. No hay señales de Dany, es hora de superar una situación de vida o muerte..."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "link": "https://www.escapegames.com.ar/sala-de-escape-que-paso-ayer/",
+            "surprise": 7,
+            "difficulty": 8,
+            "theme": "Aventura - Robo"
+          },
+          {
+            "id": "ESCAPEGAMES-SANTELMO-ELCONJURO",
+            "name": "El Conjuro",
+            "desciption": [
+              "Mientras los demonólogos Ed y Lorraine disfrutan de una romántica segunda luna de miel en Cancún, un grave suceso en su morada de San Telmo pone en grave peligro a su hija Judy. Al ver movimientos extraños en la casa, una vecina le avisa al padre Pérez, un sacerdote amigo de la familia quien al llegar se encuentra con una cuadro de posesión demoníaca que lo obliga a practicar un exorcismo de manera urgente, sin posibilidad de esperar la autorización de la iglesia. Al recibir la noticia por parte del padre Pérez, Ed y Lorraine emprenden inmediatamente el regreso y junto a un grupo de parapsicólogos amigos, ingresan a la casa y descubren que el reloj marca las 3:07. Se dan cuenta entonces, que en una hora sucederán hechos irreversibles. En ese momento, la puerta de entrada se cierra violentamente, quedando atrapados en el hall de entrada y sin posibilidad de llegar al dormitorio, donde seguramente el padre Pérez esté practicando el exorcismo."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "link": "https://www.escapegames.com.ar/sala-escape-conjuro/",
+            "surprise": 9,
+            "difficulty": 8,
+            "theme": "Misterio - Thriller"
+          },
+          {
+            "id": "ESCAPEGAMES-SANTELMO-BREAKINGBAD",
+            "name": "Breaking Bad",
+            "desciption": [
+              "Trataste de convencer a tus proveedores Walt y Jesse de que el cargamento no lo pudiste vender aún, pero la realidad es que tuviste que arrojar al río 200 kilos de metanfetamina para zafar de una redada de la DEA.",
+              "Alguien le debe haber contado a estos despiadados narco productores que no tienes ni la droga ni el dinero, porque en cuestión de horas las presiones y amenazas se hicieron insoportables y tu intuición te dice a gritos que ambos están yendo a tu casa para “arreglar cuentas”.",
+              "Buscas a tus mejores amigos para realizar un golpe maestro que solucione el problema. Junto a ellos ingresas a un depósito alquilado por Walt donde crees que te harás del dinero o de la droga para salvar tu vida.",
+              "En una hora, y mucho más enojados aún, Walt y Jesse estarán de regreso, no sería indicado que los encuentren hurgando sus cosas..."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "link": "https://www.escapegames.com.ar/sala-escape-breaking-bad/",
+            "surprise": 7,
+            "difficulty": 8,
+            "theme": "Investigación - Thriller"
+          },
+          {
+            "id": "ESCAPEGAMES-SANTELMO-THEEXAM",
+            "name": "The Exam",
+            "desciption": [
+              "La convocatoria no abundaba en datos, pero la oferta era imperdible: a través de LinkedIn te invitaron a una entrevista laboral para ganar la posición de CEO de un poderoso laboratorio. Al llegar al lugar te informan que participarás de la selección junto a varios postulantes, tu intuición te dice que conoces a cada uno de ellos pero las sugestivas máscaras que les colocaron al ingresar te impiden confirmarlo. De repente, un seguridad los recibe, los invita a pasar y los encierra en un pasillo tras comunicarles los lineamientos y las condiciones para afrontar la entrevista. Inmediatamente, descubren que algo muy extraño sucede: Todo indica que están confinados a una trampa mortal. Quizás, la ambición los llevó al lugar en donde trabajar para vivir y vivir para trabajar significan exactamente lo mismo..."
+            ],
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Advanced",
+            "link": "https://www.escapegames.com.ar/sala-escape-the-exam/",
+            "surprise": 7,
+            "difficulty": 10,
+            "theme": "Headhunting - Suspenso"
+          }
+        ]
+      },
+      {
+        "id": "ESCAPEGAMES-STUDIOS",
+        "name": "ESCAPEGAMES - STUDIOS",
+        "contactInfo": {
+          "address": "Sarmiento 1666",
+          "location": "San Monserrat",
+          "province": "Buenos Aires",
+          "country": "Argentina",
+          "email": "info@escapegames.com.ar",
+          "whatsapp": "+54 9 11 5583 3989",
+          "phone": "011 5583 3989"
+        },
+        "rooms": [
+          {
+            "id": "ESCAPEGAMES-STUDIOS-LAMONJA",
+            "name": "La Monja",
+            "desciption": [
+              "Enviados desde el Vaticano hasta Rumania para investigar el extraño suicidio de una monja del Monasterio de Cârta, los recibe el Capellán Vladimir en estado de shock por los sucesos paranormales que azotan al monasterio y que anticipan el regreso del poderoso Valak, dueño de las puertas del infierno.",
+              "Un ambiente siniestro y espeso presagia la necesidad de librar una batalla contra el mal antes de las 3:07 am, para evitar que Valak desate toda su furia a la hora del demonio."
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-la-monja-eg-studios/"
+          },
+          {
+            "id": "ESCAPEGAMES-STUDIOS-AMONGUS",
+            "name": "Among Us",
+            "desciption": [
+              "La estación espacial Tesla III es el punto perfecto para destruir a un enorme asteroide que se dirige directo a la Tierra.",
+              "Pero debido a una serie de desperfectos y presuntas traiciones entre los tripulantes, nadie responde en la estación espacial para acatar el pedido desde nuestro planeta.",
+              "Por eso, junto a un equipo de astronautas, te convocan para la importante misión de llegar a la estación espacial, disparar el misil y salvar a la humanidad.",
+              "Al llegar a destino, la estación está colapsada y hay señales de sabotajes intencionales, nada tan grave como para impedir presionar un simple botón en menos de una hora y pasar a la historia como el salvador de la raza humana. Solo un impostor podría arruinar tan sencilla tarea."
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-among-us-eg-studios/"
+          },
+          {
+            "id": "ESCAPEGAMES-STUDIOS-ELDIADELAMARMOTA",
+            "name": "El día de la Marmota",
+            "desciption": [
+              "El desesperante “hechizo del tiempo” sufrido por el meteorólogo Phill Connors durante su estadía en Pittsburgh para cubrir el evento del Día de la Marmota, los ha involucrado dramáticamente.",
+              "Efectivamente tras regresar un poco alegres de una noche de copas, ingresan por error al Apart vecino y comienzan a ser protagonistas en la perturbadora paradoja.",
+              "Para peor, Phill Connors, hastiado de comenzar siempre un mismo día, robó la marmota y la tiene en el Apart, que será pesquisado por la policía local en apenas una hora.",
+              "De no romper el hechizo, existen altas posibilidades de que hoy sea el peor y último día de sus vidas."
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-el-dia-de-la-marmota-eg-studios-2/",
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "difficulty": 8,
+            "surprise": 9,
+            "theme": "Aventura - Surrealista"
+          },
+          {
+            "id": "ESCAPEGAMES-STUDIOS-BENDITOROBO",
+            "name": "Bendito Robo",
+            "desciption": [
+              "La amistad es la mayor fortuna que un hombre puede tener, pero hacer fortuna con amigos es la mayor bendición.",
+              "Ustedes tienen la suerte de conocer a Salva y Julio desde chicos, en la Asociación Cristiana de Jóvenes, y esa amistad se mantuvo toda la vida. Ellos trabajan en la red ReBank, y cuando armaron el plan perfecto no dudaron en incluirlos en la odisea, un solo pecado que los lleve al Paraíso.",
+              "El robo será inmaculado, sin armas ni rehenes… un botín imposible de denunciar: diamantes obtenidos en el mercado negro.",
+              "El gerente de la sucursal, hijo inútil del dueño del Banco, usa el establecimiento para guardar sus negocios ilegales. Si no dejan pruebas, no habrá denuncia ni investigación.",
+              "Convencido del plan, “quien roba a un ladrón tiene 100 años de perdón”, Salva no entendió bien por qué Julio se bajó a último momento, pero respetó su decisión.",
+              "Salva los tranquiliza: “deberán ingresar, tomar los diamantes y salir por la puerta, es una pavada! Solo tienen que seguir el plan perfectamente trazado, no puede fallar!”",
+              "Esta vez, más que nunca; entrar es fácil… salir depende de vos!"
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-bendito-robo-eg-studios/",
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "difficulty": 8,
+            "surprise": 9,
+            "theme": "Acción - Aventura"
+          },
+          {
+            "id": "ESCAPEGAMES-STUDIOS-APOCALIPSISZOMBIE",
+            "name": "Apocalipsis Zombie",
+            "desciption": [
+              "Corea del Norte volvió con su maldita costumbre de provocar, pero el flamante presidente de EEUU tuvo pocas pulgas y ordenó la invasión. Y lo que parecía la pelea de un león contra un mosquito tuvo un final inesperado. Los norcoreanos lanzaron casi todos sus misiles a mansalva con el secreto químico que tanto amenazaban, una mutación de laboratorio del mal de Creutzfeldtd-Jacob, más conocido como síndrome de la vaca loca, se dispersó por el mundo y en tan solo semanas pasó de epidemia a pandemia, de hecatombe a apocalipsis zombie.",
+              "Buenos Aires, quizás el último oasis de la infección global, también está colapsando, y la única esperanza son los trabajos del profesor Rómulo Romanoff, una mente brillante del Conicet que transformó un hospital abandonado en un improvisado laboratorio y sala de cuarentena, y según un sobreviviente habría creado el antídoto para la virulenta infección. El tiempo es tirano y las únicas noticias que abundan informan sobre ordas de zombies arrasando con los últimos refugios o con pequeños grupitos de sobrevivientes. Por eso decides junto a tus amigos aun no infectados, una peligrosa y salvaje travesía hasta el laboratorio del profesor Romanoff. Varios golpes de suerte y un par de enfrentamientos victoriosos los llevan finalmente hasta la puerta del hospital, pero las primeras señales no son nada buenas, el lugar tambien ha sido arrasado. Solo queda saber si el profesor Romanoff continúa con vida y si su cura nos ayudará a salvar la humanidad…"
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-apocalipsis-zombie-eg-studios/",
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Intermediate",
+            "difficulty": 8,
+            "surprise": 8,
+            "theme": "Terror - Suspenso"
+          },
+          {
+            "id": "ESCAPEGAMES-STUDIOS-HOSPITALMACABRO",
+            "name": "Hospital Macabro",
+            "desciption": [
+              "El Dr. Carlos Mayorano no sólo es director del Hospital Clinico Monserrat y titular de Cátedra en la Universidad del Buenos Aires.",
+              "Pero su gran reputación no resulta suficiente para frenar las sospechas y denuncias sobre hechos que desprestigian al Hospital y comprometen al joven Dr. Emiliano Past, el más destacado integrante de su equipo de cirujanos y el profesor de la Universidad más admirado por sus alumnos.",
+              "La extraña desaparición de los cuerpos de cuatro indigentes, son antecedentes demasiado macabros como para soportar el último escándalo: se constató tras una autopsia judicial que al cuerpo de un delincuente que ingresó con una herida de bala y falleció en quirófano, le faltaban las dos córneas y un riñón.",
+              "El escándalo estalló y como era previsible, nada se sabe sobre el paradero del Dr. Past.",
+              "De inmediato, el Dr. Mayorano ordenó cerrar el pabellón de cirugía hasta que se realice la investigación de los hechos, pero un grupo de estudiantes de medicina que realiza diariamente prácticas en el hospital, sospechan que nada es como parece.",
+              "Apenas una hora antes de que se inicien los primeros peritajes de la investigación judicial, logran ingresar al pabellón clausurado para salvar el honor del Dr. Past.",
+              "Es momento de descubrir que pasó en el Pabellón de Cirugía y escapar antes de que lleguen los investigadores."
+            ],
+            "link": "https://www.escapegames.com.ar/sala-de-escape-hospital-macabro-sala-clonada-eg-studios/",
+            "minPlayers": 2,
+            "maxPlayers": 5,
+            "level": "Beginner",
+            "difficulty": 6,
+            "surprise": 9,
+            "theme": "Investigación - Suspenso"
+          }
+        ]
+      }
+    ]
+  },
+  "ESCAPEROOM": {
+    "name": "Escape Room",
+    "website": "https://www.escaperoomargentina.com/",
+    "logo": "imgs/companies/escaperoom/logo.png",
+    "franchises": [
+      {
+        "id": "ESCAPEROOM-ZONANORTE",
+        "name": "Escape Room Argentina - Zona Norte",
+        "socialMedia": {
+          "instagram": "https://www.instagram.com/escaperoomzonanorte/",
+          "facebook": "https://www.facebook.com/Escape-Room-Zona-Norte-863464554044105/",
+          "tripadvisor": "https://www.tripadvisor.com.ar/Attraction_Review-g2137013-d15613105-Reviews-Escape_Room_Zona_Norte-Olivos_Capital_Federal_District.html"
+        },
+        "contactInfo": {
+          "address": "Avenida Maipú 3386",
+          "location": "Olivos",
+          "province": "Buenos Aires",
+          "country": "Argentina",
+          "email": "escaperoomzonanorte@gmail.com",
+          "phone": "+54 011 4794 7777",
+          "web": "https://www.escaperoomzonanorte.com/"
+        },
+        "rooms": [
+          {
+            "id": "ESCAPEROOM-ZONANORTE-LABORATORIOBOEIRO",
+            "name": "El Laboratorio del Dr. Boeiro",
+            "desciption": [
+              "En el año 1978, el Dr. M. Boeiro, creó un laboratorio en el que solía hacer experimentos con sustancias peligrosas y altamente contaminantes. Hacia fines del mismo año, Boeiro huyó y abandonó ese laboratorio, aparentemente por no encontrar la fórmula para detener la salida de un gas muy nocivo, que al cabo de una hora, termina intoxicando. Ahora la sociedad entera confía en que ustedes puedan resolver esta inminente amenaza. Tu equipo está integrado por reconocidos científicos que deben entrar al laboratorio secreto y eliminar los gases tóxicos…..A ponerse los delantales que el tiempo se les acaba en 60 minutos!!!"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#laboratorio",
+            "difficulty": 7
+          },
+          {
+            "id": "ESCAPEROOM-ZONANORTE-ELREFUGIO",
+            "name": "El Refugio de la Montaña",
+            "desciption": [
+              "Mientras hacen una excursión por la montaña una tormenta de nieve los sorprende y no los deja continuar. Se encuentran perdidos pero por suerte, a lo lejos se ven las luces de un refugio. Están a salvo...o al menos eso creen. Los caseros se comportan esquivos, hay algo extraño e inquietante en el ambiente. Definitivamente ellos ocultan algo. No solo presienten sino perciben que esta situación va de mal en peor. Antes de desesperar se les presenta una oportunidad para irse, pero solo tienen sesenta minutos para aprovecharla... ¿Podrán escapar del oscuro secreto del Refugio?"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#refugio",
+            "difficulty": 7.5
+          },
+          {
+            "id": "ESCAPEROOM-ZONANORTE-WELCOMETOVEGAS",
+            "name": "Welcome to Las Vegas",
+            "desciption": [
+              "Te encuentras de vacaciones en Las Vegas, disfrutando de la diversión que ofrece la ciudad. Con tu grupo de amigos deciden hacer algo totalmente fuera de lo común: ¡Estafar al casino! Dispuestos al gran desafío comienzan a preparar el plan. Ya tienen todo armado: ¡señas, apuestas y mucha adrenalina! Ingresan al casino, cada uno en un juego diferente. Pero el plan sale mal y la gente de seguridad detecta las infracciones. Quedó todo grabado en los discos duros del sistema de seguridad. Tienen 60 minutos para eliminar esa información y escapar, o quedarán en el camino del encierro?"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#vegas",
+            "difficulty": 9
+          },
+          {
+            "id": "ESCAPEROOM-ZONANORTE-ALICIA",
+            "name": "El Mundo de las Maravillas",
+            "desciption": [
+              "¿Siempre soñaste con conocer el Mundo de las Maravillas? Tus ansias de conocer un mundo fantástico y lleno de aventuras te ha dejado aquí sin saber que en realidad en él no todo es mágico y extraordinario como aparenta ser. Una vez que entras te encuentras atrapado y te das cuenta de que la puerta de entrada ya no es una salida. Verás muchos caminos pero sólo uno podrá devolverte a tu mundo real. Ahora tu reto será encontrar la salida en el Mundo de las Maravillas para poder escapar...y ¡en tan sólo 60 minutos!"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#maravillas",
+            "difficulty": 8
+          },
+          {
+            "id": "ESCAPEROOM-ZONANORTE-SWAT",
+            "name": "S.W.A.T.",
+            "desciption": [
+              "Ahora son parte del EQUIPO ELITE de S.W.A.T. Mientras están en las instalaciones de los vestuarios para comenzar con su turno de trabajo, perciben movimientos sumamente extraños.",
+              "De pronto, encuentran un maletín sospechoso ¡Qué jamás habían visto!......PERO ¡CUIDADO! ¡Porque contiene una bomba!",
+              "Una aparente pista les indica quiénes están detrás de ese maletín: nada más ni menos que 'Los Leggio', una familia peligrosa, conocida en la ciudad por su actuación en el contrabando de joyas, relojes y obras de artes valoradas en miles de dólares.",
+              "Ahora el objetivo de ustedes será lograr ingresar a la casa de esta familia poderosa y encontrar todos los indicios necesarios para poder desactivar la bomba. Tienen 60 minutos para cumplir su misión!... Podrán lograrlo??!!"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#swat",
+            "difficulty": 9.5
+          },
+          {
+            "id": "ESCAPEROOM-ZONANORTE-ROBODELBANCO",
+            "name": "El Robo del Banco",
+            "desciption": [
+              "En el año 1978, el Dr. M. Boeiro, creó un laboratorio en el que solía hacer experimentos con sustancias peligrosas y altamente contaminantes. Hacia fines del mismo año, Boeiro huyó y abandonó ese laboratorio, aparentemente por no encontrar la fórmula para detener la salida de un gas muy nocivo, que al cabo de una hora, termina intoxicando. Ahora la sociedad entera confía en que ustedes puedan resolver esta inminente amenaza. Tu equipo está integrado por reconocidos científicos que deben entrar al laboratorio secreto y eliminar los gases tóxicos…..A ponerse los delantales que el tiempo se les acaba en 60 minutos!!!"
+            ],
+            "link": "https://www.escaperoomzonanorte.com/es/las-salas#banco",
+            "difficulty": 8.5
+          }
+        ]
+      }
+    ]
+  }
+}

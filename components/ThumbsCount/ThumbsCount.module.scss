@@ -1,0 +1,22 @@
+@use "../../styles/constants" as c;
+
+.thumbs {
+  .iconContainer {
+    font-size: 20px;
+    margin: 0 10px;
+    cursor: pointer;
+
+    &[data-voted="false"] {
+      color: c.$gray;
+      &:hover {
+        opacity: 0.7;
+      }
+    }
+  }
+
+  .count {
+    user-select: none;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+}
